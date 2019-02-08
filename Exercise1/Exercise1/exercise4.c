@@ -1,6 +1,6 @@
 #include <stdio.h>
 /* print Celsius-Fahrenheit table for fahr = 0, 20, ..., 300 */
-main()
+void main()
 {
 	int fahr, celsius;
 	int lower, upper, step;
@@ -14,5 +14,4 @@ main()
 		printf("%d\t%d\n", celsius, fahr);
 		fahr = fahr + step;
 	}
-
 }
