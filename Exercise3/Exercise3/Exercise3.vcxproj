@@ -115,6 +115,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="chararray.c" />
+    <ClCompile Include="divisionmodulo.c" />
+    <ClCompile Include="multiswap.c" />
+    <ClCompile Include="power.c" />
+    <ClCompile Include="testPower.c" />
+    <ClCompile Include="test_multiswap.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="multiswap.h" />
+    <ClInclude Include="power.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
