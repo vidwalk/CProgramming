@@ -33,12 +33,21 @@
     <ClCompile Include="test_multiswap.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="my_string_func.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="power.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="multiswap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="my_string_func.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
