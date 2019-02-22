@@ -2,12 +2,12 @@
 
 int main()
 {
-	int a = 7;
-	int b = 3;
-	float c = 7;
-	float d = 3;
-	char e = '7';
-	char f = '3';
+	const int a = 7;
+	const int b = 3;
+	const float c = 7;
+	const float d = 3;
+	const char e = '7';
+	const char f = '3';
 	/*modulo for integer*/
 	printf("Normal modulo = %d\n", a % b);
 	printf("Normal division = %d\n", a / b);

@@ -117,6 +117,20 @@
   <ItemGroup>
     <ClCompile Include="chararray.c" />
     <ClCompile Include="divisionmodulo.c" />
+<<<<<<< HEAD
+=======
+    <ClCompile Include="main.c" />
+    <ClCompile Include="multiswap.c" />
+    <ClCompile Include="my_string_func.c" />
+    <ClCompile Include="power.c" />
+    <ClCompile Include="testPower.c" />
+    <ClCompile Include="test_multiswap.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="multiswap.h" />
+    <ClInclude Include="my_string_func.h" />
+    <ClInclude Include="power.h" />
+>>>>>>> 2104bfbc2a80c18358a25eb599ecde70513d2fa6
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
