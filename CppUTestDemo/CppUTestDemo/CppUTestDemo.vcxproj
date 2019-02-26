@@ -72,6 +72,9 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <IncludePath>C:\Users\Claudiu\Desktop\Programming\ESWProgramming\CppUTest\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>C:\Users\Claudiu\Desktop\Programming\ESWProgramming\CppUTest\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
@@ -91,7 +94,12 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <ForcedIncludeFiles>C:\Users\Claudiu\Desktop\Programming\ESWProgramming\CppUTest\include\CppUTest\MemoryLeakDetectorMallocMacros.h;C:\Users\Claudiu\Desktop\Programming\ESWProgramming\CppUTest\include\CppUTest\MemoryLeakDetectorNewMacros.h;%(ForcedIncludeFiles)</ForcedIncludeFiles>
     </ClCompile>
+    <Link>
+      <AdditionalDependencies>C:\Users\Claudiu\Desktop\Programming\ESWProgramming\CppUTest\libs\CppUTest.lib;C:\Users\Claudiu\Desktop\Programming\ESWProgramming\CppUTest\libs\CppUTestExt.lib;Winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>

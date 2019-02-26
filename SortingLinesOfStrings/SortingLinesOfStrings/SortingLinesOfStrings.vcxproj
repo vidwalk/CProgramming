@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CCC56E6E-585A-43E8-961A-650B081717D6}</ProjectGuid>
-    <RootNamespace>Any</RootNamespace>
+    <ProjectGuid>{480DDEC9-2E6A-48B1-B0FF-74FF019E9C02}</ProjectGuid>
+    <RootNamespace>SortingLinesOfStrings</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,10 +115,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\TDDAny\any.h" />
+    <ClInclude Include="GetLine.h" />
+    <ClInclude Include="InputOutputLines.h" />
+    <ClInclude Include="QuickSort.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\TDDAny\any.c" />
+    <ClCompile Include="GetLine.c" />
+    <ClCompile Include="InputOutputLines.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="QuickSort.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

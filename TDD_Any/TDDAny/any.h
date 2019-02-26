@@ -1,3 +1,3 @@
 #pragma once
 
-int any(char s1[], char s2[]);
+int any(const char *str1, const char *str2);
