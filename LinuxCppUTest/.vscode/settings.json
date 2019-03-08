@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "commandlinetestrunner.h": "c",
+        "testharness.h": "c"
+    }
+}
