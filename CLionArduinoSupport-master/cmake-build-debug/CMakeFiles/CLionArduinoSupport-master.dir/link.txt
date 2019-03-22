@@ -1,1 +1,1 @@
-/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-g++  -g  -rdynamic CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o  -o CLionArduinoSupport-master 
+/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-g++  -g  -rdynamic CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o  -o CLionArduinoSupport-master 

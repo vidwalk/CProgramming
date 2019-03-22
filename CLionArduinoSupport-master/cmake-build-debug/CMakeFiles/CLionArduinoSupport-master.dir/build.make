@@ -57,9 +57,22 @@ include CMakeFiles/CLionArduinoSupport-master.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CLionArduinoSupport-master.dir/flags.make
 
+CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o: ../src/blink.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/blink.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/blink.c > CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/blink.c -o CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.s
+
 CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
 CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o: ../src/blink.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o"
 	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/blink.cpp
 
 CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.i: cmake_force
@@ -72,7 +85,7 @@ CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.s: cmake_force
 
 CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
 CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o: ../src/example.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o"
 	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/example.cpp
 
 CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.i: cmake_force
@@ -83,19 +96,36 @@ CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.s"
 	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/example.cpp -o CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.s
 
+CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o: ../src/stdioExample.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdioExample.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdioExample.c > CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdioExample.c -o CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.s
+
 # Object files for target CLionArduinoSupport-master
 CLionArduinoSupport__master_OBJECTS = \
+"CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o" \
 "CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o" \
-"CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o"
+"CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o"
 
 # External object files for target CLionArduinoSupport-master
 CLionArduinoSupport__master_EXTERNAL_OBJECTS =
 
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/build.make
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CLionArduinoSupport-master"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable CLionArduinoSupport-master"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CLionArduinoSupport-master.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

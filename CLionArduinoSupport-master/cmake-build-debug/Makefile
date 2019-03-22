@@ -253,6 +253,33 @@ PLATFORMIO_TEST/fast:
 	$(MAKE) -f CMakeFiles/PLATFORMIO_TEST.dir/build.make CMakeFiles/PLATFORMIO_TEST.dir/build
 .PHONY : PLATFORMIO_TEST/fast
 
+src/blink.o: src/blink.c.o
+
+.PHONY : src/blink.o
+
+# target to build an object file
+src/blink.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o
+.PHONY : src/blink.c.o
+
+src/blink.i: src/blink.c.i
+
+.PHONY : src/blink.i
+
+# target to preprocess a source file
+src/blink.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.i
+.PHONY : src/blink.c.i
+
+src/blink.s: src/blink.c.s
+
+.PHONY : src/blink.s
+
+# target to generate assembly for a file
+src/blink.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.s
+.PHONY : src/blink.c.s
+
 src/blink.o: src/blink.cpp.o
 
 .PHONY : src/blink.o
@@ -307,6 +334,33 @@ src/example.cpp.s:
 	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.s
 .PHONY : src/example.cpp.s
 
+src/stdioExample.o: src/stdioExample.c.o
+
+.PHONY : src/stdioExample.o
+
+# target to build an object file
+src/stdioExample.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o
+.PHONY : src/stdioExample.c.o
+
+src/stdioExample.i: src/stdioExample.c.i
+
+.PHONY : src/stdioExample.i
+
+# target to preprocess a source file
+src/stdioExample.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.i
+.PHONY : src/stdioExample.c.i
+
+src/stdioExample.s: src/stdioExample.c.s
+
+.PHONY : src/stdioExample.s
+
+# target to generate assembly for a file
+src/stdioExample.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.s
+.PHONY : src/stdioExample.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -329,9 +383,15 @@ help:
 	@echo "... src/blink.o"
 	@echo "... src/blink.i"
 	@echo "... src/blink.s"
+	@echo "... src/blink.o"
+	@echo "... src/blink.i"
+	@echo "... src/blink.s"
 	@echo "... src/example.o"
 	@echo "... src/example.i"
 	@echo "... src/example.s"
+	@echo "... src/stdioExample.o"
+	@echo "... src/stdioExample.i"
+	@echo "... src/stdioExample.s"
 .PHONY : help
 
 

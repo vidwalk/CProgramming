@@ -213,10 +213,22 @@
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/lib/readme.txt">
 			<Option target="CLionArduinoSupport-master"/>
 		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/lib/stdio/libserialLib.a">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/lib/stdio/stdio_driver.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/blink.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/blink.cpp">
 			<Option target="CLionArduinoSupport-master"/>
 		</Unit>
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/example.cpp">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdioExample.c">
 			<Option target="CLionArduinoSupport-master"/>
 		</Unit>
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/CMakeLists.txt">
