@@ -1,30 +1,36 @@
-//
-// Created by vidwalk on 3/22/19.
-//
+/*
+ * Demonstration on how to redirect stdio to UART.
+ *
+ * http://appelsiini.net/2011/simple-usart-with-avr-libc
+ *
+ * To compile and upload run: make clean; make; make program;
+ * Connect to serial with: screen /dev/tty.usbserial-*
+ *
+ * Copyright 2011 Mika Tuupola
+ *
+ * Licensed under the MIT license:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *
+ */
+
 #include <stdio.h>
-#include <stdio_driver.h>
+#include <stdio/uart.h>
 #include <USBAPI.h>
 
 
-int main(void)
-{
-    stdioCreate(0);
+int main(void) {
+
+    uart_init();
+    stdout = &uart_output;
+    stdin  = &uart_input;
     sei();
+    char input;
 
-    puts("Program started");
-
-    uint16_t counter = 0;
-
-    while(1)
-    {
-        printf("The counter value: %05d and in hex: %04X\n", counter, counter);
-        counter++;
-
-        if(stdioInputWaiting())
-        {
-            printf("###>%c\n", getchar());
-        }
-
-        _delay_ms(500);
+    while(1) {
+        puts("Hello world!");
+        input = getchar();
+        printf("You wrote %c\n", input);
     }
+
+    return 0;
 }

@@ -253,6 +253,330 @@ PLATFORMIO_TEST/fast:
 	$(MAKE) -f CMakeFiles/PLATFORMIO_TEST.dir/build.make CMakeFiles/PLATFORMIO_TEST.dir/build
 .PHONY : PLATFORMIO_TEST/fast
 
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.s
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.o: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.o
+
+# target to build an object file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.i: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.i
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.i
+
+# target to preprocess a source file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.i
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.i
+
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.s: .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.s
+
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.s
+
+# target to generate assembly for a file
+.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.s
+.PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.s
+
 src/blink.o: src/blink.c.o
 
 .PHONY : src/blink.o
@@ -334,6 +658,33 @@ src/example.cpp.s:
 	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.s
 .PHONY : src/example.cpp.s
 
+src/stdio/uart.o: src/stdio/uart.c.o
+
+.PHONY : src/stdio/uart.o
+
+# target to build an object file
+src/stdio/uart.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.o
+.PHONY : src/stdio/uart.c.o
+
+src/stdio/uart.i: src/stdio/uart.c.i
+
+.PHONY : src/stdio/uart.i
+
+# target to preprocess a source file
+src/stdio/uart.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.i
+.PHONY : src/stdio/uart.c.i
+
+src/stdio/uart.s: src/stdio/uart.c.s
+
+.PHONY : src/stdio/uart.s
+
+# target to generate assembly for a file
+src/stdio/uart.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.s
+.PHONY : src/stdio/uart.c.s
+
 src/stdioExample.o: src/stdioExample.c.o
 
 .PHONY : src/stdioExample.o
@@ -380,6 +731,42 @@ help:
 	@echo "... PLATFORMIO_CLEAN"
 	@echo "... CLionArduinoSupport-master"
 	@echo "... PLATFORMIO_TEST"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.s"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.o"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.i"
+	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.s"
 	@echo "... src/blink.o"
 	@echo "... src/blink.i"
 	@echo "... src/blink.s"
@@ -389,6 +776,9 @@ help:
 	@echo "... src/example.o"
 	@echo "... src/example.i"
 	@echo "... src/example.s"
+	@echo "... src/stdio/uart.o"
+	@echo "... src/stdio/uart.i"
+	@echo "... src/stdio/uart.s"
 	@echo "... src/stdioExample.o"
 	@echo "... src/stdioExample.i"
 	@echo "... src/stdioExample.s"

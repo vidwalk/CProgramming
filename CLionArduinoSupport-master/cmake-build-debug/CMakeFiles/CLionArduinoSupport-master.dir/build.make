@@ -57,9 +57,165 @@ include CMakeFiles/CLionArduinoSupport-master.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CLionArduinoSupport-master.dir/flags.make
 
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.s
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o: ../.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c > CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c -o CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.s
+
 CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
 CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o: ../src/blink.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o"
 	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/blink.c
 
 CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.i: cmake_force
@@ -72,7 +228,7 @@ CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.s: cmake_force
 
 CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
 CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o: ../src/blink.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o"
 	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/blink.cpp
 
 CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.i: cmake_force
@@ -85,7 +241,7 @@ CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.s: cmake_force
 
 CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
 CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o: ../src/example.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o"
 	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/example.cpp
 
 CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.i: cmake_force
@@ -96,9 +252,22 @@ CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.s"
 	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/example.cpp -o CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.s
 
+CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.o: ../src/stdio/uart.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdio/uart.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdio/uart.c > CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdio/uart.c -o CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.s
+
 CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
 CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o: ../src/stdioExample.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o"
 	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o   -c /home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdioExample.c
 
 CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.i: cmake_force
@@ -111,21 +280,47 @@ CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.s: cmake_force
 
 # Object files for target CLionArduinoSupport-master
 CLionArduinoSupport__master_OBJECTS = \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o" \
 "CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o" \
 "CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o" \
 "CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.o" \
 "CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o"
 
 # External object files for target CLionArduinoSupport-master
 CLionArduinoSupport__master_EXTERNAL_OBJECTS =
 
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/stdio/uart.c.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/stdioExample.c.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/build.make
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable CLionArduinoSupport-master"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable CLionArduinoSupport-master"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CLionArduinoSupport-master.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

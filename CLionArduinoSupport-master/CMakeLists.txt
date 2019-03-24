@@ -63,4 +63,4 @@ add_custom_target(
     WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
 )
 
-add_executable(${PROJECT_NAME} ${SRC_LIST} src/blink.c src/stdioExample.c)
+add_executable(${PROJECT_NAME} ${SRC_LIST} src/blink.c src/stdioExample.c src/stdio/uart.c src/stdio/uart.h)

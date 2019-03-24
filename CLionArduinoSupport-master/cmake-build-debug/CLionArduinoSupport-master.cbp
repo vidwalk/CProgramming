@@ -210,13 +210,157 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/Stdio_lib/.pio/.piopkgmanager.json">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/Stdio_lib/libserialLib.a">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/Stdio_lib/stdio_driver.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/.piopkgmanager.json">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/applypatch-msg.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/commit-msg.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/fsmonitor-watchman.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/post-update.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/pre-applypatch.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/pre-commit.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/pre-push.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/pre-rebase.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/pre-receive.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/prepare-commit-msg.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.git/hooks/update.sample">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/.gitignore">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/Example/main.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/FreeRTOSTraceDriver/FreeRTOSTraceDriver.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/readme.md">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/.gitignore">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/ATMEGA_FreeRTOS.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/FreeRTOSConfig.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/FreeRTOSVariant.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/croutine.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/event_groups.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/heap_3.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/history.txt">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/license.txt">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/list.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/message_buffer.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/mpu_wrappers.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/port.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/portable.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/portmacro.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/projdefs.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/queue.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/semphr.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stack_macros.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/stream_buffer.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/task.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.h">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/lib/readme.txt">
-			<Option target="CLionArduinoSupport-master"/>
-		</Unit>
-		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/lib/stdio/libserialLib.a">
-			<Option target="CLionArduinoSupport-master"/>
-		</Unit>
-		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/lib/stdio/stdio_driver.h">
 			<Option target="CLionArduinoSupport-master"/>
 		</Unit>
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/blink.c">
@@ -226,6 +370,12 @@
 			<Option target="CLionArduinoSupport-master"/>
 		</Unit>
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/example.cpp">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdio/uart.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdio/uart.h">
 			<Option target="CLionArduinoSupport-master"/>
 		</Unit>
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/stdioExample.c">
