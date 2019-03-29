@@ -11,6 +11,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/tasks.c.o"
   "CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/timers.c.o"
   "CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o"
+  "CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o"
   "CMakeFiles/CLionArduinoSupport-master.dir/src/blink.c.o"
   "CMakeFiles/CLionArduinoSupport-master.dir/src/blink.cpp.o"
   "CMakeFiles/CLionArduinoSupport-master.dir/src/example.cpp.o"

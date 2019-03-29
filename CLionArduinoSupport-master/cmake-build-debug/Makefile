@@ -577,6 +577,33 @@ PLATFORMIO_TEST/fast:
 	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.s
 .PHONY : .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.s
 
+src/TaskExample.o: src/TaskExample.c.o
+
+.PHONY : src/TaskExample.o
+
+# target to build an object file
+src/TaskExample.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o
+.PHONY : src/TaskExample.c.o
+
+src/TaskExample.i: src/TaskExample.c.i
+
+.PHONY : src/TaskExample.i
+
+# target to preprocess a source file
+src/TaskExample.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.i
+.PHONY : src/TaskExample.c.i
+
+src/TaskExample.s: src/TaskExample.c.s
+
+.PHONY : src/TaskExample.s
+
+# target to generate assembly for a file
+src/TaskExample.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.s
+.PHONY : src/TaskExample.c.s
+
 src/blink.o: src/blink.c.o
 
 .PHONY : src/blink.o
@@ -767,6 +794,9 @@ help:
 	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.o"
 	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.i"
 	@echo "... .piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.s"
+	@echo "... src/TaskExample.o"
+	@echo "... src/TaskExample.i"
+	@echo "... src/TaskExample.s"
 	@echo "... src/blink.o"
 	@echo "... src/blink.i"
 	@echo "... src/blink.s"

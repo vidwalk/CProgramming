@@ -12,7 +12,7 @@
  *   http://www.opensource.org/licenses/mit-license.php
  *
  */
-
+/*
 #include <stdio.h>
 #include <stdio/uart.h>
 #include <USBAPI.h>
@@ -34,3 +34,4 @@ int main(void) {
 
     return 0;
 }
+*/

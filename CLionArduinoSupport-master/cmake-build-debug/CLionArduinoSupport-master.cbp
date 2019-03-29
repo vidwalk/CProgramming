@@ -363,6 +363,9 @@
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/lib/readme.txt">
 			<Option target="CLionArduinoSupport-master"/>
 		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/TaskExample.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/CLionArduinoSupport-master/src/blink.c">
 			<Option target="CLionArduinoSupport-master"/>
 		</Unit>
