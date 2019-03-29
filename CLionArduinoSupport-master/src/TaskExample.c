@@ -52,7 +52,13 @@ void create_tasks_and_semaphores(void)
             ,  NULL
             ,  1  // Priority, with 3 (configMAX_PRIORITIES - 1) being the highest, and 0 being the lowest.
             ,  NULL );
-
+    xTaskCreate(
+            task3
+            ,  (const portCHAR *)"Task3"  // A name just for humans
+            ,  configMINIMAL_STACK_SIZE  // This stack size can be checked & adjusted by reading the Stack Highwater
+            ,  NULL
+            ,  0  // Priority, with 3 (configMAX_PRIORITIES - 1) being the highest, and 0 being the lowest.
+            ,  NULL );
 }
 
 /*-----------------------------------------------------------*/
@@ -88,7 +94,20 @@ void task2( void *pvParameters )
     }
 }
 
+/*-----------------------------------------------------------*/
+void task3( void *pvParameters )
+{
+#if (configUSE_APPLICATION_TASK_TAG == 1)
+    // Set task no to be used for tracing with R2R-Network
+	vTaskSetApplicationTaskTag( NULL, ( void * ) 2 );
+#endif
 
+    for(;;)
+    {
+        vTaskDelay(50);
+        PORTA ^= _BV(PA6);
+    }
+}
 /*-----------------------------------------------------------*/
 int main(void)
 {
