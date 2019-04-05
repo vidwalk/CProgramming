@@ -23,7 +23,7 @@ void task2( void *pvParameters );
 SemaphoreHandle_t xTestSemaphore;
 
 
-/*-----------------------------------------------------------*/
+/*-----------------------------------------------------------
 void create_tasks_and_semaphores(void)
 {
     // Semaphores are useful to stop a Task proceeding, where it should be paused to wait,
@@ -53,9 +53,10 @@ void create_tasks_and_semaphores(void)
             ,  NULL
             ,  1  // Priority, with 3 (configMAX_PRIORITIES - 1) being the highest, and 0 being the lowest.
             ,  NULL );
+
 }
 
-/*-----------------------------------------------------------*/
+/*-----------------------------------------------------------
 void task1( void *pvParameters )
 {
 #if (configUSE_APPLICATION_TASK_TAG == 1)
@@ -73,7 +74,7 @@ void task1( void *pvParameters )
     }
 }
 
-/*-----------------------------------------------------------*/
+/*-----------------------------------------------------------
 void task2( void *pvParameters )
 {
 #if (configUSE_APPLICATION_TASK_TAG == 1)
@@ -88,7 +89,7 @@ void task2( void *pvParameters )
     }
 }
 
-/*-----------------------------------------------------------*/
+/*-----------------------------------------------------------
 int main(void)
 {
     DDRA |= _BV(DDA0) | _BV(DDA7);
@@ -97,9 +98,9 @@ int main(void)
     create_tasks_and_semaphores();
     vTaskStartScheduler(); // initialise and run the freeRTOS scheduler. Execution should never return here.
 
-    /* Replace with your application code */
+    /* Replace with your application code
     while (1)
     {
     }
 }
-
+*/

@@ -239,9 +239,22 @@ CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/tasks.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/tasks.c.s"
 	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/Arduino/tasks.c -o CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/tasks.c.s
 
+CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
+CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.o: ../src/Queues.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.o"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.o   -c /home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/Queues.c
+
+CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.i"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/Queues.c > CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.i
+
+CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.s"
+	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/Queues.c -o CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.s
+
 CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o: CMakeFiles/CLionArduinoSupport-master.dir/flags.make
 CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o: ../src/TaskExample.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o"
 	/home/vidwalk/.platformio/packages/toolchain-atmelavr/bin/avr-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o   -c /home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/TaskExample.c
 
 CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.i: cmake_force
@@ -268,6 +281,7 @@ CLionArduinoSupport__master_OBJECTS = \
 "CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o" \
 "CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/FreeRTOSTraceDriver.c.o" \
 "CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/tasks.c.o" \
+"CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.o" \
 "CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o"
 
 # External object files for target CLionArduinoSupport-master
@@ -287,10 +301,11 @@ CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdep
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/FreeRTOSTraceDriver.c.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/tasks.c.o
+CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/build.make
 CLionArduinoSupport-master: CMakeFiles/CLionArduinoSupport-master.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking C executable CLionArduinoSupport-master"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking C executable CLionArduinoSupport-master"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CLionArduinoSupport-master.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

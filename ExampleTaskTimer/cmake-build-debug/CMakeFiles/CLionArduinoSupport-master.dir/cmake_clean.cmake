@@ -13,6 +13,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o"
   "CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/FreeRTOSTraceDriver.c.o"
   "CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/tasks.c.o"
+  "CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.o"
   "CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o"
   "CLionArduinoSupport-master.pdb"
   "CLionArduinoSupport-master"

@@ -371,6 +371,9 @@
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/Arduino/tasks.c">
 			<Option target="CLionArduinoSupport-master"/>
 		</Unit>
+		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/Queues.c">
+			<Option target="CLionArduinoSupport-master"/>
+		</Unit>
 		<Unit filename="/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/TaskExample.c">
 			<Option target="CLionArduinoSupport-master"/>
 		</Unit>

@@ -631,6 +631,33 @@ src/Arduino/tasks.c.s:
 	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/tasks.c.s
 .PHONY : src/Arduino/tasks.c.s
 
+src/Queues.o: src/Queues.c.o
+
+.PHONY : src/Queues.o
+
+# target to build an object file
+src/Queues.c.o:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.o
+.PHONY : src/Queues.c.o
+
+src/Queues.i: src/Queues.c.i
+
+.PHONY : src/Queues.i
+
+# target to preprocess a source file
+src/Queues.c.i:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.i
+.PHONY : src/Queues.c.i
+
+src/Queues.s: src/Queues.c.s
+
+.PHONY : src/Queues.s
+
+# target to generate assembly for a file
+src/Queues.c.s:
+	$(MAKE) -f CMakeFiles/CLionArduinoSupport-master.dir/build.make CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.s
+.PHONY : src/Queues.c.s
+
 src/TaskExample.o: src/TaskExample.c.o
 
 .PHONY : src/TaskExample.o
@@ -719,6 +746,9 @@ help:
 	@echo "... src/Arduino/tasks.o"
 	@echo "... src/Arduino/tasks.i"
 	@echo "... src/Arduino/tasks.s"
+	@echo "... src/Queues.o"
+	@echo "... src/Queues.i"
+	@echo "... src/Queues.s"
 	@echo "... src/TaskExample.o"
 	@echo "... src/TaskExample.i"
 	@echo "... src/TaskExample.s"

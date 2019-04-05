@@ -18,6 +18,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c" "/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/cmake-build-debug/CMakeFiles/CLionArduinoSupport-master.dir/.piolibdeps/VIA_FreeRTOS_AVRMEGA/src/variantHooks.c.o"
   "/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/Arduino/FreeRTOSTraceDriver.c" "/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/cmake-build-debug/CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/FreeRTOSTraceDriver.c.o"
   "/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/Arduino/tasks.c" "/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/cmake-build-debug/CMakeFiles/CLionArduinoSupport-master.dir/src/Arduino/tasks.c.o"
+  "/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/Queues.c" "/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/cmake-build-debug/CMakeFiles/CLionArduinoSupport-master.dir/src/Queues.c.o"
   "/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/src/TaskExample.c" "/home/vidwalk/Desktop/ESWProgramming/ExampleTaskTimer/cmake-build-debug/CMakeFiles/CLionArduinoSupport-master.dir/src/TaskExample.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
