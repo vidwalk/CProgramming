@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ObjectOrientedTest.dir/main.c.o CMakeFiles/ObjectOrientedTest.dir/carClass.c.o  -o ObjectOrientedTest 

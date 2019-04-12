@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vidwalk/Desktop/ESWProgramming/ObjectOrientedTest/carClass.h
+stdbool.h
+-
+stdlib.h
+-
+
+/home/vidwalk/Desktop/ESWProgramming/ObjectOrientedTest/main.c
+stdio.h
+-
+carClass.h
+/home/vidwalk/Desktop/ESWProgramming/ObjectOrientedTest/carClass.h
+
